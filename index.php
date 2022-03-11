@@ -13,7 +13,7 @@
  */
 define('WP_USE_THEMES', true);
 echo "asd";
-echo "2"; 
+echo "223"; 
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
