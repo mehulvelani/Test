@@ -13,7 +13,11 @@
  */
 define('WP_USE_THEMES', true);
 echo "asd";
+<<<<<<< HEAD
 echo "223"; 
+=======
+echo "2asd"; 
+>>>>>>> fb37611bd3a374d0d7ecf1a633062b9d02585871
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
